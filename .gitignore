@@ -11,6 +11,7 @@
 # Test binary, built with `go test -c`
 *.test
 
+
 # Code coverage profiles and other test artifacts
 *.out
 coverage.*
@@ -30,3 +31,10 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+
+# txt extensions
+*.txt
+*.txt.kate-swp
+*.kate-swp
+
